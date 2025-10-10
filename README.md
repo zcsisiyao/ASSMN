@@ -17,11 +17,11 @@ matplotlib==3.4.1
 numpy==1.19.2
 
 ## Datasets
-1. Sydney-Captions:
+1. Sydney-Captions: 
 
-2. UCM-Captions:
+2. UCM-Captions: 
 
-3. NWPU-Captions:
+3. NWPU-Captions: https://github.com/HaiyanHuang98/NWPU-Captions
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper. Thanks!
