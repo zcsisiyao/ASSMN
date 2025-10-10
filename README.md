@@ -1,19 +1,42 @@
-# Adaptive Scale-aware Semantic Memory Network for Remote Sensing Image Captioning
-This is the code for "Adaptive Scale-aware Semantic Memory Network for Remote Sensing Image Captioning"
+# ASSMN
 
-# We will illustrate the training details as follows:
+Python code for "Adaptive Scale-aware Semantic Memory Network for Remote Sensing Image Captioning"...
 
-## Installation
+## Requirements
 
-1. Clone this repository
+python==3.8.5
 
-2. cd SRDRL
+torch==1.7.1
 
-3. Make virtual environment with Python 3.5 (e.g., conda create -n change python=3.5)
+tensorboard==2.14.0
 
-4. Install requirements (pip install -r requirements.txt)
+torchvision==0.8.2
 
-5. [Clone COCO caption eval tools with Python 3.](https://github.com/mtanti/coco-caption)
+matplotlib==3.4.1
+
+numpy==1.19.2
+
+## Datasets
+1. Sydney-Captions:
+
+2. UCM-Captions:
+
+3. NWPU-Captions:
+
+## Citation
+If you find our work useful for your research, please consider citing our paper. Thanks!
 
 
-## Data
+## Acknowledgement
+In our implementations, we reference the code from  and :
+
+1.
+
+2.
+
+We are very grateful for the contributions of these papers and related codes.
+
+
+## Contact us
+
+If you have any queries, please do not hesitate to contact us.
