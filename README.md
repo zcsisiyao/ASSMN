@@ -30,9 +30,11 @@ If you find our work useful for your research, please consider citing our paper.
 ## Acknowledgement
 In our implementations, we reference the code from  and :
 
-1.
+1. https://github.com/aimagelab/meshed-memory-transformer
 
-2.
+2. https://github.com/One-paper-luck/PKG-Transformer
+
+3. https://github.com/tylin/coco-caption
 
 We are very grateful for the contributions of these papers and related codes.
 
